@@ -1,0 +1,14 @@
+{
+  "name": "@wiby-test/fail",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A dependent of `wiby` which always fails the tests",
+  "scripts": {
+    "test": "false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiby-test/fail.git"
+  },
+  "license": "MIT"
+}
